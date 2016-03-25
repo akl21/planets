@@ -1,4 +1,4 @@
-planets = c("mercury", "etc")
+planets = c("mercury", "venus", "earth", "mars", "jupiter", "saturn", "uranus", "neptune")
 print(planets)
 print("But what about Pluto?")
-print("And what about the other planets too?")
+print("We'll ignore Pluto for now.")
